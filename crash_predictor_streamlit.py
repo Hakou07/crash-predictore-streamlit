@@ -1,10 +1,3 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2709
-\cocoatextscaling1\cocoaplatform1{\fonttbl\f0\fmodern\fcharset0 Courier-Oblique;\f1\fmodern\fcharset0 Courier;}
-{\colortbl;\red255\green255\blue255;\red92\green99\blue112;\red171\green178\blue191;\red198\green120\blue221;
-\red152\green195\blue121;\red209\green154\blue102;\red86\green182\blue194;\red224\green108\blue117;}
-{\*\expandedcolortbl;;\cssrgb\c36078\c38824\c43922;\cssrgb\c67059\c69804\c74902;\cssrgb\c77647\c47059\c86667;
-\cssrgb\c59608\c76471\c47451;\cssrgb\c81961\c60392\c40000;\cssrgb\c33725\c71373\c76078;\cssrgb\c87843\c42353\c45882;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\i\fs28 \cf2 #!/usr/bin/env python3
 \f1\i0 \cf3 \
